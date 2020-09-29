@@ -1,0 +1,23 @@
+{
+  "name": "bigmacbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yoni-Git/bigmack.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yoni-Git/bigmack/issues"
+  },
+  "homepage": "https://github.com/Yoni-Git/bigmack#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-cache": "^5.1.2"
+  }
+}
